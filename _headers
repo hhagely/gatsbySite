@@ -1,0 +1,40 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/tags
+  Link: </webpack-runtime-0bdf82b96c2c17a50753.js>; rel=preload; as=script
+  Link: </component---src-templates-all-tagsindex-js-337b602dd9ebcc379622.js>; rel=preload; as=script
+/tags/That
+  Link: </webpack-runtime-0bdf82b96c2c17a50753.js>; rel=preload; as=script
+  Link: </component---src-templates-single-tagindex-js-8dbfd572fde181bce495.js>; rel=preload; as=script
+/tags/This
+  Link: </webpack-runtime-0bdf82b96c2c17a50753.js>; rel=preload; as=script
+  Link: </component---src-templates-single-tagindex-js-8dbfd572fde181bce495.js>; rel=preload; as=script
+/first-post
+  Link: </webpack-runtime-0bdf82b96c2c17a50753.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-cb921c78169080a68b86.js>; rel=preload; as=script
+/second-post
+  Link: </webpack-runtime-0bdf82b96c2c17a50753.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-cb921c78169080a68b86.js>; rel=preload; as=script
+/third-post
+  Link: </webpack-runtime-0bdf82b96c2c17a50753.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-cb921c78169080a68b86.js>; rel=preload; as=script
+/404/
+  Link: </webpack-runtime-0bdf82b96c2c17a50753.js>; rel=preload; as=script
+  Link: </0-149d42a78f1af362f9cc.js>; rel=preload; as=script
+/
+  Link: </webpack-runtime-0bdf82b96c2c17a50753.js>; rel=preload; as=script
+  Link: </0-149d42a78f1af362f9cc.js>; rel=preload; as=script
+/page-2/
+  Link: </webpack-runtime-0bdf82b96c2c17a50753.js>; rel=preload; as=script
+  Link: </0-149d42a78f1af362f9cc.js>; rel=preload; as=script
+/404.html
+  Link: </webpack-runtime-0bdf82b96c2c17a50753.js>; rel=preload; as=script
+  Link: </0-149d42a78f1af362f9cc.js>; rel=preload; as=script
